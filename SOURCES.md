@@ -9,8 +9,8 @@ found and are labelled as aggregators.
 
 ## Story map
 
-- Lead — "US STRIKES IRAN MISSILE SITE ON QESHM" / "IRAN FIRES DRONES
-  AT BAHRAIN AND KUWAIT IN REPLY":
+- Lead — "US STRIKES IRAN MISSILE SITE ON QESHM" / "TEHRAN CLAIMS
+  STRIKES ON US BASES; KUWAIT SAYS IT DOWNED HOSTILE DRONES":
   - Reuters (wire), "US strikes Iranian missile launch site on Qeshm
     Island, US official says", 17 Nov 2026 — US fighter aircraft hit
     an IRGC missile launch site on Qeshm in retaliation for Iran
@@ -18,9 +18,15 @@ found and are labelled as aggregators.
     the US radar system at Sheikh Isa Air Base, Bahrain:
     https://mymixfm.com/2026/11/17/us-strikes-iranian-missile-launch-site-on-qeshm-island-us-official-says/
   - The News Bit (aggregator, citing Reuters), "Iran Expands Gulf
-    Attacks After US Strikes", 18 Nov 2026 — Iran's military said it
-    targeted US drone and missile installations at Kuwait's Ali Al
-    Salem air base, per Reuters:
+    Attacks After US Strikes", 18 Nov 2026 — reports two items
+    separately: (a) Iran's military said it targeted US drone and
+    missile installations at Kuwait's Ali Al Salem air base, per
+    Reuters; and (b) Kuwait reported intercepting hostile drones.
+    The aggregator does NOT explicitly attribute the drones Kuwait
+    intercepted to Iran, so the panel keeps the two claims separate
+    and attributes no drone to Iran. (An earlier draft sub-line,
+    "Iran fires drones at Bahrain and Kuwait in reply", merged the
+    claims and was replaced for this reason.)
     https://thenewsbit.com/iran-expands-gulf-attacks-us-strikes/
 
 - "APEC SUMMIT OPENS IN SHENZHEN" / "XI HOSTS PUTIN; TRILATERAL WITH
@@ -55,15 +61,21 @@ found and are labelled as aggregators.
     from CDC data (e.g. Healthline, 17 Nov 2026):
     https://www.healthline.com/health-news/u-s-loses-measles-elimination-status-after-26-years
 
-- "CONGO EBOLA PASSES 11,000 CASES" / "OUTBREAK DOUBLES IN THREE
-  MONTHS, SECOND-LARGEST EVER":
+- "CONGO EBOLA PASSES 11,000 CASES" / "11,114 CONFIRMED CASES IN DR
+  CONGO; SECOND-LARGEST EVER":
   - ECDC (primary/official), "Ebola disease outbreak caused by
     Bundibugyo virus – Multi-country – 2026", update of 12 Nov 2026 —
-    11,114 confirmed cases in DR Congo (data to 11 Nov 2026):
+    11,114 confirmed cases in DR Congo (data to 11 Nov 2026). The
+    sub-line's case total is this ECDC figure. Correction: an
+    earlier draft sub-line said the outbreak "doubles in three
+    months"; the ECDC update gives no three-month baseline and no
+    doubling calculation, so that claim was removed:
     https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-12
-  - Associated Press (wire), 11 Nov 2026 — the outbreak is the
-    second-largest Ebola outbreak on record; AP report carried by
-    HeadlinesXtra (aggregator):
+  - Associated Press (wire), 11 Nov 2026 — AP reported the outbreak
+    had reached 11,042 infections and 5,387 deaths, the
+    second-largest documented globally; that explicit AP ranking is
+    the sole support for the panel's "second-largest ever" phrase.
+    AP report carried by HeadlinesXtra (aggregator):
     https://headlinesxtra.com/2026/11/11/congo-ebola-outbreak-11000-infections-response-obstacles-november-2026/
 
 - "PELTOLA WIN SEALS SENATE FOR DEMOCRATS" / "ALASKA FLIP GIVES A
