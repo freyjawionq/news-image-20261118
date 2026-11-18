@@ -14,15 +14,22 @@ found and are labelled as aggregators.
   - Reuters (wire), "US strikes Iranian missile launch site on Qeshm
     Island, US official says", 17 Nov 2026 — US fighter aircraft hit
     an IRGC missile launch site on Qeshm in retaliation for Iran
-    targeting US personnel and assets, including the drone attack on
-    the US radar system at Sheikh Isa Air Base, Bahrain:
+    targeting US personnel and assets:
     https://mymixfm.com/2026/11/17/us-strikes-iranian-missile-launch-site-on-qeshm-island-us-official-says/
+    (Correction: an earlier version of this map said the strike
+    answered a drone attack on the US radar system at Sheikh Isa
+    Air Base, Bahrain. The carrier page above does not contain
+    that detail, and neither does the News Bit report below, so
+    the detail has been removed from this map.)
   - The News Bit (aggregator, citing Reuters), "Iran Expands Gulf
     Attacks After US Strikes", 18 Nov 2026 — reports two items
     separately: (a) Iran's military said it targeted US drone and
     missile installations at Kuwait's Ali Al Salem air base, per
     Reuters; and (b) Kuwait reported intercepting hostile drones.
-    The aggregator does NOT explicitly attribute the drones Kuwait
+    The same report also carries the Bahrain item in this story:
+    Bahrain said its air defences intercepted further Iranian
+    aerial attacks on 18 Nov. The aggregator does NOT explicitly
+    attribute the drones Kuwait
     intercepted to Iran, so the panel keeps the two claims separate
     and attributes no drone to Iran. (An earlier draft sub-line,
     "Iran fires drones at Bahrain and Kuwait in reply", merged the
@@ -62,7 +69,7 @@ found and are labelled as aggregators.
     https://www.healthline.com/health-news/u-s-loses-measles-elimination-status-after-26-years
 
 - "CONGO EBOLA PASSES 11,000 CASES" / "11,114 CONFIRMED CASES IN DR
-  CONGO; SECOND-LARGEST EVER":
+  CONGO; SECOND-LARGEST DOCUMENTED GLOBALLY":
   - ECDC (primary/official), "Ebola disease outbreak caused by
     Bundibugyo virus – Multi-country – 2026", update of 12 Nov 2026 —
     11,114 confirmed cases in DR Congo (data to 11 Nov 2026). The
@@ -74,7 +81,8 @@ found and are labelled as aggregators.
   - Associated Press (wire), 11 Nov 2026 — AP reported the outbreak
     had reached 11,042 infections and 5,387 deaths, the
     second-largest documented globally; that explicit AP ranking is
-    the sole support for the panel's "second-largest ever" phrase.
+    the sole support for the panel's "second-largest documented
+    globally" phrase, which now quotes AP's wording exactly.
     AP report carried by HeadlinesXtra (aggregator):
     https://headlinesxtra.com/2026/11/11/congo-ebola-outbreak-11000-infections-response-obstacles-november-2026/
 
